@@ -1,0 +1,5 @@
+autograd
+matplotlib
+nevergrad
+scipy
+git+https://github.com/uber-research/TuRBO.git
